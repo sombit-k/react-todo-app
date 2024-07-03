@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+li{
+    width: 80vh;
+    display: inline-block;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 0;
+    font-size: 120%;
+}
+
+#deletebtn{
+    justify-content: center;
+    width:30vh
+    
+}
